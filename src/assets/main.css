@@ -1,0 +1,13 @@
+body {
+  min-height: 100vh;
+  background-image: url('https://d3rbj9hv9lsqcr.cloudfront.net/ai/lpm7y069fiakjkjnwku92ks3an7p_watermark.png');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+#app {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
